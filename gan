@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title> User Login Page</title>
+       <link rel="stylesheet" type="text/css" href="bad.css">
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        </head>
+<body>
+   	<div class="container">
+   		<div class="login-box">
+       <div class="row">
+       	<div class="col-md-6">
+       		<h2><b><font size="50" face="gadugi" color="black">Login Here</font></b></h2>
+       			<div class="form-group">
+       				<label><font size="4" face="gadugi" color="black">username</font></label>
+       				<input type="text" name="user" class="form-control" required>
+       			</div>
+                <div class="form-group">
+       				<label><font size="4" face="gadugi" color="black">password</font></label>
+       				<input type="password" name="password" class="form-control" required>
+       			</div>
+       			<button type="submit" class="btn btn-secondary">Login</button>
+
+       			<a href="reg.php">
+       				<button type="Reg" class="btn btn-secondary">Register</button>
+       				
+       				<a href="http://google.com"><button>Go to Google</button></a>
+
+
+       			</a>
+       		
+       	</div>
+
+       	</div>	     
+
+
+
+
+
+   </body>  
